@@ -1,29 +1,43 @@
-## Welcome to GitHub Pages
+## NINO'S DIGITAL PROFILE 
 
 You can use the [editor on GitHub](https://github.com/nnnino/nnnino_tu107/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### PHAKPHUM MAKBOON 
+"It is not the strongest of the species that survives,
+nor the most intelligent that survives.
+It is the one that is the most adaptable to change."
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a href="https://www.picz.in.th/image/6UTnXy"><img src="https://sv1.picz.in.th/images/2021/12/02/6UTnXy.th.jpg" alt="6UTnXy.jpg" border="0" /></a>
 
 ```markdown
-Syntax highlighted code block
+**การศึกษา** 
+ระดับชั้นอนุบาล : _โรงเรียนอินทารามวิทยา_
+ระดับชั้นประถม : _โรงเรียนพยุหะศึกษาคาร_
+ระดับมัธยมต้น : _โรงเรียนพยุหะพิทยาคม_
+ระดับมัธยมปลาย : _โรงเรียนบุญวาทย์วิทยาลัย ลำปาง_
 
-# Header 1
-## Header 2
-### Header 3
+**การสื่อสาร**
+ภาษาไทย (หลัก)
+ภาษาอังกฤษ (รอง)
 
-- Bulleted
-- List
+**งานอดิเรก**
+อ่านหังสือ
+ดูซีรีส์
+ฟังเพลง
+ร้องเพลง
 
-1. Numbered
-2. List
+**Contact**
+Instragram : nnnino_n
 
-**Bold** and _Italic_ and `Code` text
+**ผลงานและประสบการณ์**
+- เป็นตัวแทนการแข่งขันศิลปหัตถกรรมระดับชาติ ในการแข่งขันการสร้างหนังสืออิเล็กทรอนิกส์ ระดับมัธยมต้น
+- เป็นนักเรียนประชาสัมพันธ์ โรงเรียนบุญวาทย์วิทยาลัย
+- จบการส฿กษาจากหลักสูตร Gifted Computer ที่เกิดจากความร่วมมือของโรงเรียนบุญวาทย์วิทยาลัย และมหาวิทยาลับเชียงใหม่ 
 
-[Link](url) and ![Image](src)
+
+
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
